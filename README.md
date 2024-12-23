@@ -1,2 +1,1 @@
-# FujiS248
-Desktop App inspection S248
+# OCR-Reader-Jetson
